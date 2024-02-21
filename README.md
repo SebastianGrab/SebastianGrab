@@ -3,4 +3,4 @@
 
 Probably one of the best IT-jokes I've heared so far:
 
-![image](/png/JsonStatham.png)
+![image](/png/JsonStatham.png?raw=true)
