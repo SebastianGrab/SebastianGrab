@@ -1,5 +1,5 @@
-# Sebastian Grab's GitHub profile
-## Welcome to my profile, Feel free to interact with me!
+# Sebastian Grab's GitHub Profile
+## Welcome to my Profile, feel free to interact with me!
 
 Probably one of the best IT-jokes I've heard so far:
 
