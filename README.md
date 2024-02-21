@@ -1,5 +1,6 @@
-# Repository: Sebastian Grab
+# Sebastian Grab's GitHub profile
+## Welcome to my profile, Feel free to interact with me!
 
-## Code
+Probably one of the best IT-jokes I've heared so far:
 
-This subfolder's task is to store code that may be helpful one day.
+![image](/png/JsonStatham.png)
