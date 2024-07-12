@@ -5,21 +5,15 @@ This is my private GitHub Profile. In general, I mainly work with Azure DevOps, 
 
 The main focus of my developer career so far was pointed to the following technologies:
 
-- Microsoft Power Platform (Power BI, Power Automate, Power Apps)
-- Microsoft Azure (mainly infrasturcture topics, Azure ML, Azure Data Storage relational & non-relational, Logic Apps & Functions, DevOps) 
-- Robotic Process Automation
-- Data Warehousing & (T-) SQL
-- ASP.NET Web development
+- Microsoft Fabric & Power Platform (Business Intelligence & Advanced Analytics, Power Automate, Power Apps, ...)
+- Microsoft Azure (Infrasturcture, Networking, Azure ML, Azure Data Storage & SQL Server, Logic Apps, Functions, DevOps, ...) 
+- Robotic Process Automation (MS Power Automate, UiPath)
+- Data Warehousing / Lakehousing, (T-)SQL, DAX, Power Query M
+- .NET / C# Application Development
 
 I have general knowledge within the following technologies:
 
-- Python
-- Docker
-- Git
-- MLOps
-- Java
-- Cloud Infrastructure
-- ...
+  Python, Docker, Git & Branching, MLOps, Java, JavaScript & TypeScript, Cloud Infrastructure, REST / SOAP, and many more 
 
 
 
